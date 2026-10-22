@@ -1,15 +1,15 @@
 
-# Welcome to gittosHub 🚀
+# Welcome to gittosHub 
 
 **Software Engineering | Cybersecurity | AI | Cloud Computing**
 
 ---
 
-## 📌 About
+##  About
 
 gittosHub is a collection of projects, research, and learning initiatives focused on building secure, scalable, and innovative technology solutions.
 
-## 🎯 Areas of Focus
+## Areas of Focus
 
 ### 💻 Software Engineering
 - Web Development
@@ -26,12 +26,12 @@ gittosHub is a collection of projects, research, and learning initiatives focuse
 - Natural Language Processing (NLP)
 - Data Analytics
 
-### ☁️ Cloud Computing
+###☁️ Cloud Computing
 - Firebase
 - Microsoft Azure
 - Cloud Automation
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 *Projects coming soon...*
 
